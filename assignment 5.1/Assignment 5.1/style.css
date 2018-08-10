@@ -1,0 +1,14 @@
+header {
+    height: 70px;
+    width: 140px;
+	border-radius:50%;
+	color:white;
+    /*padding-top: 20px;*/
+	border:1px;
+    background: blue;
+	padding:20px;
+	text-align:center;
+}
+body {
+	background: linear-gradient(to bottom, #ffff99 20%, #ffff00 120%);	
+}
